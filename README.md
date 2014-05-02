@@ -1,4 +1,4 @@
-lab03_jirvin16
-==============
+CS130E-S14-Labs
+===============
 
-lab03 for Jeremy Irvin
+labs for CS130E-S14
